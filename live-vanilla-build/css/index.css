@@ -146,8 +146,8 @@ button:hover {
   z-index: 10;
   top: 60px;
   right: 0;
-  background-color: #203139;
-  border-radius: 2px;
+  background-color: var(--dark-gray);
+  border-radius: 10px;
   padding: 10px;
 }
 
